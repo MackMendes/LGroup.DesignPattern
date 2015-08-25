@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Armazenamento de Dados", "Armazenamento de Dados", "{4D343664-0CC2-4E16-922F-B69AE5E7B20A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serviço", "Serviço", "{19D60501-A372-4B74-8AA0-2AEB8741B971}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servidor", "Servidor", "{B923D21E-2AE5-4098-BB1C-14F14CD669F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Model", "LGroup.Model\LGroup.Model.csproj", "{8FF9055D-59F3-48B0-B494-A4486A587D29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Server", "LGroup.Server\LGroup.Server.csproj", "{2C9A850B-5932-4B96-8DB8-409579C21C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Service.Contract", "LGroup.Service.Contract\LGroup.Service.Contract.csproj", "{4C72CEC5-C9B2-4CDC-A57B-2B9BBE1A84FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Service.Implementation", "LGroup.Service.Implementation\LGroup.Service.Implementation.csproj", "{1C0A900B-C8D2-4EFB-94B1-848F70EC9DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Global", "LGroup.Global\LGroup.Global.csproj", "{F811942E-6C40-4954-A76C-D2CE89C55095}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://charlesmendes.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LGroup.Model\\LGroup.Model.csproj
+		SccProjectTopLevelParentUniqueName1 = LGroup.RequestResponse.sln
+		SccProjectName1 = LGroup.Model
+		SccLocalPath1 = LGroup.Model
+		SccProjectUniqueName2 = LGroup.Server\\LGroup.Server.csproj
+		SccProjectTopLevelParentUniqueName2 = LGroup.RequestResponse.sln
+		SccProjectName2 = LGroup.Server
+		SccLocalPath2 = LGroup.Server
+		SccProjectUniqueName3 = LGroup.Service.Contract\\LGroup.Service.Contract.csproj
+		SccProjectTopLevelParentUniqueName3 = LGroup.RequestResponse.sln
+		SccProjectName3 = LGroup.Service.Contract
+		SccLocalPath3 = LGroup.Service.Contract
+		SccProjectUniqueName4 = LGroup.Service.Implementation\\LGroup.Service.Implementation.csproj
+		SccProjectTopLevelParentUniqueName4 = LGroup.RequestResponse.sln
+		SccProjectName4 = LGroup.Service.Implementation
+		SccLocalPath4 = LGroup.Service.Implementation
+		SccProjectUniqueName5 = LGroup.Global\\LGroup.Global.csproj
+		SccProjectTopLevelParentUniqueName5 = LGroup.RequestResponse.sln
+		SccProjectName5 = LGroup.Global
+		SccLocalPath5 = LGroup.Global
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF9055D-59F3-48B0-B494-A4486A587D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF9055D-59F3-48B0-B494-A4486A587D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF9055D-59F3-48B0-B494-A4486A587D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF9055D-59F3-48B0-B494-A4486A587D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9A850B-5932-4B96-8DB8-409579C21C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9A850B-5932-4B96-8DB8-409579C21C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9A850B-5932-4B96-8DB8-409579C21C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9A850B-5932-4B96-8DB8-409579C21C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C72CEC5-C9B2-4CDC-A57B-2B9BBE1A84FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C72CEC5-C9B2-4CDC-A57B-2B9BBE1A84FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C72CEC5-C9B2-4CDC-A57B-2B9BBE1A84FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C72CEC5-C9B2-4CDC-A57B-2B9BBE1A84FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0A900B-C8D2-4EFB-94B1-848F70EC9DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0A900B-C8D2-4EFB-94B1-848F70EC9DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0A900B-C8D2-4EFB-94B1-848F70EC9DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0A900B-C8D2-4EFB-94B1-848F70EC9DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F811942E-6C40-4954-A76C-D2CE89C55095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F811942E-6C40-4954-A76C-D2CE89C55095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F811942E-6C40-4954-A76C-D2CE89C55095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F811942E-6C40-4954-A76C-D2CE89C55095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8FF9055D-59F3-48B0-B494-A4486A587D29} = {4D343664-0CC2-4E16-922F-B69AE5E7B20A}
+		{2C9A850B-5932-4B96-8DB8-409579C21C32} = {B923D21E-2AE5-4098-BB1C-14F14CD669F6}
+		{4C72CEC5-C9B2-4CDC-A57B-2B9BBE1A84FD} = {19D60501-A372-4B74-8AA0-2AEB8741B971}
+		{1C0A900B-C8D2-4EFB-94B1-848F70EC9DFA} = {19D60501-A372-4B74-8AA0-2AEB8741B971}
+		{F811942E-6C40-4954-A76C-D2CE89C55095} = {4D343664-0CC2-4E16-922F-B69AE5E7B20A}
+	EndGlobalSection
+EndGlobal

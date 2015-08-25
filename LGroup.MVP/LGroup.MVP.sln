@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVP.UI.Web", "LGroup.MVP.UI.Web\LGroup.MVP.UI.Web.csproj", "{F029FA43-1D06-43F7-96CD-BEB79A9E8524}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Camada de Apresentação (UI)", "Camada de Apresentação (UI)", "{8BF89D93-503B-4F61-AD5E-D5AF6F2CFAE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Armazenamento de Dados (Modelo)", "Armazenamento de Dados (Modelo)", "{F8BE54BC-3F4A-4E8E-8CE1-17150B08EBA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVP.Model", "LGroup.MVP.Model\LGroup.MVP.Model.csproj", "{5E93B867-26C4-43F1-8FCD-237980023865}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Camada de Visão(Visualização)", "Camada de Visão(Visualização)", "{84DF7701-2363-4BBC-8C6F-498629D7A485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVP.View", "LGroup.MVP.View\LGroup.MVP.View.csproj", "{BD3A3B5C-7782-4F28-87E3-5B7F30637E8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Camada de Negocio (Presenter)", "Camada de Negocio (Presenter)", "{A7580D30-8A22-489A-A98A-75943E151261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVP.Presenter", "LGroup.MVP.Presenter\LGroup.MVP.Presenter.csproj", "{C504384E-C3A3-42CB-88AA-4E53D2BB8288}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://charlesmendes.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LGroup.MVP.UI.Web\\LGroup.MVP.UI.Web.csproj
+		SccProjectTopLevelParentUniqueName1 = LGroup.MVP.sln
+		SccProjectName1 = LGroup.MVP.UI.Web
+		SccLocalPath1 = LGroup.MVP.UI.Web
+		SccProjectUniqueName2 = LGroup.MVP.Model\\LGroup.MVP.Model.csproj
+		SccProjectTopLevelParentUniqueName2 = LGroup.MVP.sln
+		SccProjectName2 = LGroup.MVP.Model
+		SccLocalPath2 = LGroup.MVP.Model
+		SccProjectUniqueName3 = LGroup.MVP.View\\LGroup.MVP.View.csproj
+		SccProjectTopLevelParentUniqueName3 = LGroup.MVP.sln
+		SccProjectName3 = LGroup.MVP.View
+		SccLocalPath3 = LGroup.MVP.View
+		SccProjectUniqueName4 = LGroup.MVP.Presenter\\LGroup.MVP.Presenter.csproj
+		SccProjectTopLevelParentUniqueName4 = LGroup.MVP.sln
+		SccProjectName4 = LGroup.MVP.Presenter
+		SccLocalPath4 = LGroup.MVP.Presenter
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F029FA43-1D06-43F7-96CD-BEB79A9E8524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F029FA43-1D06-43F7-96CD-BEB79A9E8524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F029FA43-1D06-43F7-96CD-BEB79A9E8524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F029FA43-1D06-43F7-96CD-BEB79A9E8524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E93B867-26C4-43F1-8FCD-237980023865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E93B867-26C4-43F1-8FCD-237980023865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E93B867-26C4-43F1-8FCD-237980023865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E93B867-26C4-43F1-8FCD-237980023865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3A3B5C-7782-4F28-87E3-5B7F30637E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3A3B5C-7782-4F28-87E3-5B7F30637E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3A3B5C-7782-4F28-87E3-5B7F30637E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3A3B5C-7782-4F28-87E3-5B7F30637E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C504384E-C3A3-42CB-88AA-4E53D2BB8288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C504384E-C3A3-42CB-88AA-4E53D2BB8288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C504384E-C3A3-42CB-88AA-4E53D2BB8288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C504384E-C3A3-42CB-88AA-4E53D2BB8288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F029FA43-1D06-43F7-96CD-BEB79A9E8524} = {8BF89D93-503B-4F61-AD5E-D5AF6F2CFAE5}
+		{5E93B867-26C4-43F1-8FCD-237980023865} = {F8BE54BC-3F4A-4E8E-8CE1-17150B08EBA6}
+		{BD3A3B5C-7782-4F28-87E3-5B7F30637E8D} = {84DF7701-2363-4BBC-8C6F-498629D7A485}
+		{C504384E-C3A3-42CB-88AA-4E53D2BB8288} = {A7580D30-8A22-489A-A98A-75943E151261}
+	EndGlobalSection
+EndGlobal

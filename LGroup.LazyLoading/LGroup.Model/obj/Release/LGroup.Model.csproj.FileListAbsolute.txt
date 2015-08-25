@@ -1,0 +1,4 @@
+E:\NetCodes\Padrão de Projetos\LGroup.LazyLoading\LGroup.Model\bin\Release\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.LazyLoading\LGroup.Model\bin\Release\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.LazyLoading\LGroup.Model\obj\Release\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.LazyLoading\LGroup.Model\obj\Release\LGroup.Model.pdb

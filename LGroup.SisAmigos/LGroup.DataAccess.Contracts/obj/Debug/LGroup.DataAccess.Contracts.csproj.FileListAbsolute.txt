@@ -1,0 +1,7 @@
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.DataAccess.Contracts\bin\Debug\LGroup.DataAccess.Contracts.dll
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.DataAccess.Contracts\bin\Debug\LGroup.DataAccess.Contracts.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.DataAccess.Contracts\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.DataAccess.Contracts\bin\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.DataAccess.Contracts\obj\Debug\LGroup.DataAccess.Contracts.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.DataAccess.Contracts\obj\Debug\LGroup.DataAccess.Contracts.dll
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.DataAccess.Contracts\obj\Debug\LGroup.DataAccess.Contracts.pdb

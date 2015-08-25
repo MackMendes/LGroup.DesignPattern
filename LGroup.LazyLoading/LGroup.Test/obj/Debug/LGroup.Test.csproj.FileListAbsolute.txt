@@ -1,0 +1,9 @@
+E:\NetCodes\Padrão de Projetos\LGroup.LazyLoading\LGroup.Test\obj\Debug\LGroup.Test.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.LazyLoading\LGroup.Test\bin\Debug\LGroup.Test.dll
+E:\NetCodes\Padrão de Projetos\LGroup.LazyLoading\LGroup.Test\bin\Debug\LGroup.Test.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.LazyLoading\LGroup.Test\bin\Debug\nunit.framework.dll
+E:\NetCodes\Padrão de Projetos\LGroup.LazyLoading\LGroup.Test\bin\Debug\nunit.framework.xml
+E:\NetCodes\Padrão de Projetos\LGroup.LazyLoading\LGroup.Test\obj\Debug\LGroup.Test.dll
+E:\NetCodes\Padrão de Projetos\LGroup.LazyLoading\LGroup.Test\obj\Debug\LGroup.Test.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.LazyLoading\LGroup.Test\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.LazyLoading\LGroup.Test\bin\Debug\LGroup.Model.pdb

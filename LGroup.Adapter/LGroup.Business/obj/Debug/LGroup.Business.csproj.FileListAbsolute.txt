@@ -1,0 +1,10 @@
+E:\NetCodes\Padrão de Projetos\LGroup.Adapter\LGroup.Business\bin\Debug\LGroup.Business.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Adapter\LGroup.Business\bin\Debug\LGroup.Business.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Adapter\LGroup.Business\bin\Debug\BankOfAmerica.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Adapter\LGroup.Business\bin\Debug\JpMorgan.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Adapter\LGroup.Business\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Adapter\LGroup.Business\bin\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Adapter\LGroup.Business\obj\Debug\LGroup.Business.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.Adapter\LGroup.Business\obj\Debug\LGroup.Business.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Adapter\LGroup.Business\obj\Debug\LGroup.Business.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Adapter\LGroup.Business\bin\Debug\UOL.dll

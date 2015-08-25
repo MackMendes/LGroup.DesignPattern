@@ -1,0 +1,13 @@
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\Lgroup.Test\bin\Debug\Lgroup.Test.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\Lgroup.Test\bin\Debug\Lgroup.Test.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\Lgroup.Test\bin\Debug\nunit.framework.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\Lgroup.Test\bin\Debug\nunit.framework.xml
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\Lgroup.Test\obj\Debug\Lgroup.Test.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\Lgroup.Test\obj\Debug\Lgroup.Test.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\Lgroup.Test\obj\Debug\Lgroup.Test.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\Lgroup.Test\bin\Debug\LGroup.DataAccess.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\Lgroup.Test\bin\Debug\LGroup.DataAccess.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\Lgroup.Test\bin\Debug\LGroup.Global.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\Lgroup.Test\bin\Debug\LGroup.Global.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\Lgroup.Test\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\Lgroup.Test\bin\Debug\LGroup.Model.pdb

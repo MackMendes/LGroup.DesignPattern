@@ -1,0 +1,7 @@
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Model\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Model\bin\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Model\obj\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Model\obj\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Model\obj\Debug\LGroup.Model.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Model\bin\Debug\LGroup.Global.dll
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Model\bin\Debug\LGroup.Global.pdb

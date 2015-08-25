@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Camada de Apresentação (VIEW)", "Camada de Apresentação (VIEW)", "{1BBB3F38-50C7-423C-BAD7-B14EE1E0D1CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Camada de Armazenamento de Dados (MODEL)", "Camada de Armazenamento de Dados (MODEL)", "{2F2106CD-BE53-4F26-9D29-553CCE9603F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Camada de Negócio (ViewModel)", "Camada de Negócio (ViewModel)", "{E70CB62F-9C3C-4968-B6EF-64C94CD5B8A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVVM.Model", "LGroup.MVVM.Model\LGroup.MVVM.Model.csproj", "{4EA9190A-D58A-4E8A-852C-3EDD5D022003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVVM.UI.Windows", "LGroup.MVVM.UI.Windows\LGroup.MVVM.UI.Windows.csproj", "{7BFC6481-AB62-4EB8-BAD3-0F9ACF7070EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVVM.ViewModel", "LGroup.MVVM.ViewModel\LGroup.MVVM.ViewModel.csproj", "{48DC72BC-93B7-4872-ABFE-66A7AC208BE2}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://charlesmendes.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LGroup.MVVM.Model\\LGroup.MVVM.Model.csproj
+		SccProjectTopLevelParentUniqueName1 = LGroup.MVVM.sln
+		SccProjectName1 = LGroup.MVVM.Model
+		SccLocalPath1 = LGroup.MVVM.Model
+		SccProjectUniqueName2 = LGroup.MVVM.UI.Windows\\LGroup.MVVM.UI.Windows.csproj
+		SccProjectTopLevelParentUniqueName2 = LGroup.MVVM.sln
+		SccProjectName2 = LGroup.MVVM.UI.Windows
+		SccLocalPath2 = LGroup.MVVM.UI.Windows
+		SccProjectUniqueName3 = LGroup.MVVM.ViewModel\\LGroup.MVVM.ViewModel.csproj
+		SccProjectTopLevelParentUniqueName3 = LGroup.MVVM.sln
+		SccProjectName3 = LGroup.MVVM.ViewModel
+		SccLocalPath3 = LGroup.MVVM.ViewModel
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA9190A-D58A-4E8A-852C-3EDD5D022003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA9190A-D58A-4E8A-852C-3EDD5D022003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA9190A-D58A-4E8A-852C-3EDD5D022003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA9190A-D58A-4E8A-852C-3EDD5D022003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BFC6481-AB62-4EB8-BAD3-0F9ACF7070EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFC6481-AB62-4EB8-BAD3-0F9ACF7070EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFC6481-AB62-4EB8-BAD3-0F9ACF7070EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFC6481-AB62-4EB8-BAD3-0F9ACF7070EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DC72BC-93B7-4872-ABFE-66A7AC208BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DC72BC-93B7-4872-ABFE-66A7AC208BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DC72BC-93B7-4872-ABFE-66A7AC208BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DC72BC-93B7-4872-ABFE-66A7AC208BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4EA9190A-D58A-4E8A-852C-3EDD5D022003} = {2F2106CD-BE53-4F26-9D29-553CCE9603F5}
+		{7BFC6481-AB62-4EB8-BAD3-0F9ACF7070EE} = {1BBB3F38-50C7-423C-BAD7-B14EE1E0D1CA}
+		{48DC72BC-93B7-4872-ABFE-66A7AC208BE2} = {E70CB62F-9C3C-4968-B6EF-64C94CD5B8A5}
+	EndGlobalSection
+EndGlobal

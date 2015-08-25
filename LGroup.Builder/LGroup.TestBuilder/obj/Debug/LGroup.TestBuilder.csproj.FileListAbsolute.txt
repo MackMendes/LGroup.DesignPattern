@@ -1,0 +1,9 @@
+E:\NetCodes\Padrão de Projetos\LGroup.Builder\LGroup.TestBuilder\bin\Debug\LGroup.TestBuilder.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Builder\LGroup.TestBuilder\bin\Debug\LGroup.TestBuilder.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Builder\LGroup.TestBuilder\bin\Debug\nunit.framework.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Builder\LGroup.TestBuilder\bin\Debug\nunit.framework.xml
+E:\NetCodes\Padrão de Projetos\LGroup.Builder\LGroup.TestBuilder\obj\Debug\LGroup.TestBuilder.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.Builder\LGroup.TestBuilder\obj\Debug\LGroup.TestBuilder.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Builder\LGroup.TestBuilder\obj\Debug\LGroup.TestBuilder.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Builder\LGroup.TestBuilder\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Builder\LGroup.TestBuilder\bin\Debug\LGroup.Model.pdb

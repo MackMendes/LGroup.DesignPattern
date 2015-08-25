@@ -1,0 +1,10 @@
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.Model\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.Model\bin\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.Model\obj\Debug\LGroup.Model.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.Model\obj\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.Model\obj\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\Entities\UnitOfWork\LGroup.Model\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\Entities\UnitOfWork\LGroup.Model\bin\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\Entities\UnitOfWork\LGroup.Model\obj\Debug\LGroup.Model.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\Entities\UnitOfWork\LGroup.Model\obj\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\Entities\UnitOfWork\LGroup.Model\obj\Debug\LGroup.Model.pdb

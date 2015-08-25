@@ -1,0 +1,7 @@
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\LGroup.DataAccess\bin\Debug\LGroup.DataAccess.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\LGroup.DataAccess\bin\Debug\LGroup.DataAccess.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\LGroup.DataAccess\obj\Debug\LGroup.DataAccess.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\LGroup.DataAccess\obj\Debug\LGroup.DataAccess.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\LGroup.DataAccess\obj\Debug\LGroup.DataAccess.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\LGroup.DataAccess\bin\Debug\LGroup.Global.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Factory\LGroup.DataAccess\bin\Debug\LGroup.Global.pdb

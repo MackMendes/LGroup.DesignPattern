@@ -1,0 +1,7 @@
+E:\NetCodes\Padrão de Projetos\LGroup.Strategy\LGroup.Strategy\bin\Debug\LGroup.Strategy.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Strategy\LGroup.Strategy\bin\Debug\LGroup.Strategy.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Strategy\LGroup.Strategy\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Strategy\LGroup.Strategy\bin\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Strategy\LGroup.Strategy\obj\Debug\LGroup.Strategy.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.Strategy\LGroup.Strategy\obj\Debug\LGroup.Strategy.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Strategy\LGroup.Strategy\obj\Debug\LGroup.Strategy.pdb

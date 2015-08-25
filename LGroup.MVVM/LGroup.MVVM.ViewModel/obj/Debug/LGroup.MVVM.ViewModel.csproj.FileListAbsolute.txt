@@ -1,0 +1,7 @@
+E:\NetCodes\Padrão de Projetos\LGroup.MVVM\LGroup.MVVM.ViewModel\bin\Debug\LGroup.MVVM.ViewModel.dll
+E:\NetCodes\Padrão de Projetos\LGroup.MVVM\LGroup.MVVM.ViewModel\bin\Debug\LGroup.MVVM.ViewModel.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.MVVM\LGroup.MVVM.ViewModel\bin\Debug\LGroup.MVVM.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.MVVM\LGroup.MVVM.ViewModel\bin\Debug\LGroup.MVVM.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.MVVM\LGroup.MVVM.ViewModel\obj\Debug\LGroup.MVVM.ViewModel.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.MVVM\LGroup.MVVM.ViewModel\obj\Debug\LGroup.MVVM.ViewModel.dll
+E:\NetCodes\Padrão de Projetos\LGroup.MVVM\LGroup.MVVM.ViewModel\obj\Debug\LGroup.MVVM.ViewModel.pdb

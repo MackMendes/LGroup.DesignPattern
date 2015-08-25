@@ -1,0 +1,14 @@
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\bin\Debug\LGroup.Server.exe.config
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\bin\Debug\LGroup.Server.exe
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\bin\Debug\LGroup.Server.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\obj\Debug\LGroup.Server.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\obj\Debug\LGroup.Server.exe
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\obj\Debug\LGroup.Server.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\bin\Debug\LGroup.Global.dll
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\bin\Debug\LGroup.Service.Contract.dll
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\bin\Debug\LGroup.Service.Implementation.dll
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\bin\Debug\LGroup.Global.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\bin\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\bin\Debug\LGroup.Service.Contract.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Server\bin\Debug\LGroup.Service.Implementation.pdb

@@ -1,0 +1,4 @@
+E:\NetCodes\Padrão de Projetos\LGroup.Builder\LGroup.Model\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Builder\LGroup.Model\bin\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Builder\LGroup.Model\obj\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Builder\LGroup.Model\obj\Debug\LGroup.Model.pdb

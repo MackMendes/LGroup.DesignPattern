@@ -1,0 +1,24 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Cliente="clr-namespace:LGroup.MVVM.ViewModel.Modulos.Cliente;assembly=LGroup.MVVM.ViewModel" x:Class="LGroup.MVVM.UI.Windows.Modulos.Cliente.Cadastrar"
+        Title="Cadastrar" Height="279.699" Width="300">
+    <Window.DataContext>
+        <Cliente:CadastrarViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="28*"/>
+            <ColumnDefinition Width="45*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Nome" HorizontalAlignment="Left" Margin="33,26,0,0" VerticalAlignment="Top"/>
+        <Label Content="E-Mail" HorizontalAlignment="Left" Margin="33,81,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nascimento" HorizontalAlignment="Left" Margin="33,137,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="2.835,26,0,0" TextWrapping="Wrap" Text="{Binding Cliente.Nome}" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="2.835,81,0,0" TextWrapping="Wrap" Text="{Binding Cliente.Email}" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+        <DatePicker HorizontalAlignment="Left" Margin="2.835,139,0,0" VerticalAlignment="Top" Grid.Column="1" SelectedDate="{Binding Cliente.DataNascimento}"/>
+        <Button Content="Limpar" HorizontalAlignment="Left" Margin="57,202,0,0" VerticalAlignment="Top" Width="75" Grid.ColumnSpan="2" Command="{Binding ClickLimpar}"/>
+        <Button Content="Cadastrar" HorizontalAlignment="Left" Margin="64.835,202,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1" Command="{Binding ClickCadastrar}"/>
+
+    </Grid>
+</Window>

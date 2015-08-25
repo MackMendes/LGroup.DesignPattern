@@ -1,0 +1,10 @@
+﻿<Window x:Class="LGroup.MVVM.UI.Windows.Modulos.Cliente.Listar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Listar" Height="309.023" Width="300">
+    <Grid>
+        <DataGrid HorizontalAlignment="Left" Margin="20,10,0,0" VerticalAlignment="Top" Height="204" Width="249"/>
+        <Button Content="Carregar" HorizontalAlignment="Left" Margin="20,239,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

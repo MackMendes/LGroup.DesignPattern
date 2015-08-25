@@ -1,0 +1,7 @@
+E:\NetCodes\Padrão de Projetos\LGroup.MVP\LGroup.MVP.View\bin\Debug\LGroup.MVP.View.dll
+E:\NetCodes\Padrão de Projetos\LGroup.MVP\LGroup.MVP.View\bin\Debug\LGroup.MVP.View.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.MVP\LGroup.MVP.View\obj\Debug\LGroup.MVP.View.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.MVP\LGroup.MVP.View\obj\Debug\LGroup.MVP.View.dll
+E:\NetCodes\Padrão de Projetos\LGroup.MVP\LGroup.MVP.View\obj\Debug\LGroup.MVP.View.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.MVP\LGroup.MVP.View\bin\Debug\LGroup.MVP.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.MVP\LGroup.MVP.View\bin\Debug\LGroup.MVP.Model.pdb

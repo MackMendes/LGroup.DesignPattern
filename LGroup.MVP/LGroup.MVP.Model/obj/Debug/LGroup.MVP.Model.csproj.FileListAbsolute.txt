@@ -1,0 +1,4 @@
+E:\NetCodes\Padrão de Projetos\LGroup.MVP\LGroup.MVP.Model\bin\Debug\LGroup.MVP.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.MVP\LGroup.MVP.Model\bin\Debug\LGroup.MVP.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.MVP\LGroup.MVP.Model\obj\Debug\LGroup.MVP.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.MVP\LGroup.MVP.Model\obj\Debug\LGroup.MVP.Model.pdb

@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Model", "..\LGroup.Facade\LGroup.Model\LGroup.Model.csproj", "{750B7D75-AD0E-4FFA-BFDC-ECA85CA48ED8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Armazenamento de Dados", "Armazenamento de Dados", "{24378C31-0FD0-47A6-9239-793AFAE7E379}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Estratégia de Negócio", "Estratégia de Negócio", "{6992C1DE-208A-47A2-A9B8-1C33714D60EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Regras de Negócio", "Regras de Negócio", "{17C5B0CC-30CF-4000-A6FF-90D5E9ECBA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Strategy", "LGroup.Strategy\LGroup.Strategy.csproj", "{4F67269E-3CC6-43C1-9713-A88FA61FA3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Business", "LGroup.Business\LGroup.Business.csproj", "{39B964FE-6D11-4C3A-87D1-6597B9F2BF19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testes de Unidade", "Testes de Unidade", "{9A320F04-84C9-46E3-B907-D628758F4623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Test", "LGroup.Test\LGroup.Test.csproj", "{7C825EB7-CA59-42CA-A93C-149574E5779E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://charlesmendes.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\LGroup.Facade\\LGroup.Model\\LGroup.Model.csproj
+		SccProjectTopLevelParentUniqueName1 = LGroup.Strategy.sln
+		SccProjectName1 = ../LGroup.Facade/LGroup.Model
+		SccLocalPath1 = ..\\LGroup.Facade\\LGroup.Model
+		SccProjectUniqueName2 = LGroup.Strategy\\LGroup.Strategy.csproj
+		SccProjectTopLevelParentUniqueName2 = LGroup.Strategy.sln
+		SccProjectName2 = LGroup.Strategy
+		SccLocalPath2 = LGroup.Strategy
+		SccProjectUniqueName3 = LGroup.Business\\LGroup.Business.csproj
+		SccProjectTopLevelParentUniqueName3 = LGroup.Strategy.sln
+		SccProjectName3 = LGroup.Business
+		SccLocalPath3 = LGroup.Business
+		SccProjectUniqueName4 = LGroup.Test\\LGroup.Test.csproj
+		SccProjectTopLevelParentUniqueName4 = LGroup.Strategy.sln
+		SccProjectName4 = LGroup.Test
+		SccLocalPath4 = LGroup.Test
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{750B7D75-AD0E-4FFA-BFDC-ECA85CA48ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750B7D75-AD0E-4FFA-BFDC-ECA85CA48ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750B7D75-AD0E-4FFA-BFDC-ECA85CA48ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750B7D75-AD0E-4FFA-BFDC-ECA85CA48ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F67269E-3CC6-43C1-9713-A88FA61FA3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F67269E-3CC6-43C1-9713-A88FA61FA3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F67269E-3CC6-43C1-9713-A88FA61FA3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F67269E-3CC6-43C1-9713-A88FA61FA3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B964FE-6D11-4C3A-87D1-6597B9F2BF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B964FE-6D11-4C3A-87D1-6597B9F2BF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B964FE-6D11-4C3A-87D1-6597B9F2BF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B964FE-6D11-4C3A-87D1-6597B9F2BF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C825EB7-CA59-42CA-A93C-149574E5779E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C825EB7-CA59-42CA-A93C-149574E5779E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C825EB7-CA59-42CA-A93C-149574E5779E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C825EB7-CA59-42CA-A93C-149574E5779E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{750B7D75-AD0E-4FFA-BFDC-ECA85CA48ED8} = {24378C31-0FD0-47A6-9239-793AFAE7E379}
+		{4F67269E-3CC6-43C1-9713-A88FA61FA3CF} = {6992C1DE-208A-47A2-A9B8-1C33714D60EE}
+		{39B964FE-6D11-4C3A-87D1-6597B9F2BF19} = {17C5B0CC-30CF-4000-A6FF-90D5E9ECBA80}
+		{7C825EB7-CA59-42CA-A93C-149574E5779E} = {9A320F04-84C9-46E3-B907-D628758F4623}
+	EndGlobalSection
+EndGlobal

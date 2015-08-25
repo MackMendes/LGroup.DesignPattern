@@ -1,0 +1,4 @@
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Global\bin\Debug\LGroup.Global.dll
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Global\bin\Debug\LGroup.Global.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Global\obj\Debug\LGroup.Global.dll
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.Global\obj\Debug\LGroup.Global.pdb

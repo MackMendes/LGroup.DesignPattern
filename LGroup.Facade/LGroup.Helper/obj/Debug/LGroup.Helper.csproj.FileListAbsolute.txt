@@ -1,0 +1,5 @@
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Helper\bin\Debug\LGroup.Helper.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Helper\bin\Debug\LGroup.Helper.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Helper\obj\Debug\LGroup.Helper.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Helper\obj\Debug\LGroup.Helper.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Helper\obj\Debug\LGroup.Helper.pdb

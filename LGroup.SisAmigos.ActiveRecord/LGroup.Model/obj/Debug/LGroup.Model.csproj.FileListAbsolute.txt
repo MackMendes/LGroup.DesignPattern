@@ -1,0 +1,17 @@
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.Model\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.Model\bin\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.Model\obj\Debug\LGroup.Model.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.Model\obj\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos\LGroup.Model\obj\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos.ActiveRecord\LGroup.Model\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos.ActiveRecord\LGroup.Model\bin\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos.ActiveRecord\LGroup.Model\obj\Debug\LGroup.Model.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos.ActiveRecord\LGroup.Model\obj\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos.ActiveRecord\LGroup.Model\obj\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos.ActiveRecord\LGroup.Model\bin\Debug\LGroup.Model.dll.config
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos.ActiveRecord\LGroup.Model\bin\Debug\EntityFramework.dll
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos.ActiveRecord\LGroup.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos.ActiveRecord\LGroup.Model\bin\Debug\EntityFramework.xml
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos.ActiveRecord\LGroup.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos.ActiveRecord\LGroup.Model\bin\Debug\nunit.framework.dll
+E:\NetCodes\Padrão de Projetos\LGroup.SisAmigos.ActiveRecord\LGroup.Model\bin\Debug\nunit.framework.xml

@@ -1,0 +1,16 @@
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\bin\Debug\LGroup.UnitOfWork.dll.config
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\bin\Debug\LGroup.UnitOfWork.dll
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\bin\Debug\LGroup.UnitOfWork.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\bin\Debug\EntityFramework.dll
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\bin\Debug\EntityFramework.SqlServer.dll
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\bin\Debug\LGroup.DataAccess.Contracts.dll
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\bin\Debug\LGroup.DataAccess.dll
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\bin\Debug\LGroup.DataAccess.Contracts.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\bin\Debug\LGroup.DataAccess.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\bin\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\bin\Debug\EntityFramework.xml
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\bin\Debug\EntityFramework.SqlServer.xml
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\obj\Debug\LGroup.UnitOfWork.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\obj\Debug\LGroup.UnitOfWork.dll
+E:\NetCodes\Padrão de Projetos\LGroup.UnitOfWork\LGroup.UnitOfWork\obj\Debug\LGroup.UnitOfWork.pdb

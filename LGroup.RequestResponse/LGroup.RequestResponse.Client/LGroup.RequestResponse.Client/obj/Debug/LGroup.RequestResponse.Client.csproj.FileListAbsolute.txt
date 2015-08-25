@@ -1,0 +1,6 @@
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\bin\Debug\LGroup.RequestResponse.Client.exe.config
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\bin\Debug\LGroup.RequestResponse.Client.exe
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\bin\Debug\LGroup.RequestResponse.Client.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\obj\Debug\LGroup.RequestResponse.Client.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\obj\Debug\LGroup.RequestResponse.Client.exe
+E:\NetCodes\Padrão de Projetos\LGroup.RequestResponse\LGroup.RequestResponse.Client\LGroup.RequestResponse.Client\obj\Debug\LGroup.RequestResponse.Client.pdb

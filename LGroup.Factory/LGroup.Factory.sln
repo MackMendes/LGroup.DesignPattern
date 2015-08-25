@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.DataAccess", "LGroup.DataAccess\LGroup.DataAccess.csproj", "{13D7F6A7-5A50-4BA1-AA4E-87BFB16627F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lgroup.Test", "Lgroup.Test\Lgroup.Test.csproj", "{00719099-3394-4113-B831-DB89C0A99665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Global", "LGroup.Global\LGroup.Global.csproj", "{FB8F76C2-6291-432E-A42E-A80802856C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Model", "..\Entities\LGroup.Model\LGroup.Model.csproj", "{750B7D75-AD0E-4FFA-BFDC-ECA85CA48ED8}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://charlesmendes.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LGroup.DataAccess\\LGroup.DataAccess.csproj
+		SccProjectName1 = LGroup.DataAccess
+		SccLocalPath1 = LGroup.DataAccess
+		SccProjectUniqueName2 = Lgroup.Test\\Lgroup.Test.csproj
+		SccProjectName2 = Lgroup.Test
+		SccLocalPath2 = Lgroup.Test
+		SccProjectUniqueName3 = LGroup.Global\\LGroup.Global.csproj
+		SccProjectName3 = LGroup.Global
+		SccLocalPath3 = LGroup.Global
+		SccProjectUniqueName4 = ..\\Entities\\LGroup.Model\\LGroup.Model.csproj
+		SccProjectName4 = ../Entities/LGroup.Model
+		SccLocalPath4 = ..\\Entities\\LGroup.Model
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D7F6A7-5A50-4BA1-AA4E-87BFB16627F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D7F6A7-5A50-4BA1-AA4E-87BFB16627F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D7F6A7-5A50-4BA1-AA4E-87BFB16627F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D7F6A7-5A50-4BA1-AA4E-87BFB16627F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00719099-3394-4113-B831-DB89C0A99665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00719099-3394-4113-B831-DB89C0A99665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00719099-3394-4113-B831-DB89C0A99665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00719099-3394-4113-B831-DB89C0A99665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8F76C2-6291-432E-A42E-A80802856C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8F76C2-6291-432E-A42E-A80802856C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8F76C2-6291-432E-A42E-A80802856C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8F76C2-6291-432E-A42E-A80802856C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750B7D75-AD0E-4FFA-BFDC-ECA85CA48ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750B7D75-AD0E-4FFA-BFDC-ECA85CA48ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750B7D75-AD0E-4FFA-BFDC-ECA85CA48ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750B7D75-AD0E-4FFA-BFDC-ECA85CA48ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

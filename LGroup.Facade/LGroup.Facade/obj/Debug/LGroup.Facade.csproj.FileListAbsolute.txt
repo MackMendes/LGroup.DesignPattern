@@ -1,0 +1,11 @@
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Facade\bin\Debug\LGroup.Facade.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Facade\bin\Debug\LGroup.Facade.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Facade\bin\Debug\LGroup.Business.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Facade\bin\Debug\LGroup.Helper.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Facade\bin\Debug\LGroup.Model.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Facade\bin\Debug\LGroup.Business.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Facade\bin\Debug\LGroup.Helper.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Facade\bin\Debug\LGroup.Model.pdb
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Facade\obj\Debug\LGroup.Facade.csprojResolveAssemblyReference.cache
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Facade\obj\Debug\LGroup.Facade.dll
+E:\NetCodes\Padrão de Projetos\LGroup.Facade\LGroup.Facade\obj\Debug\LGroup.Facade.pdb
